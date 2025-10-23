@@ -24,7 +24,7 @@ class Agent():
 
 
 class TaskIprovementAgent(Agent):
-    """Agente para análisis de mejoras en tareas (typo mantenido del original)"""
+    """Agente para análisis de mejoras en tareas"""
     def __init__(self, prompt=TASK_IMPROVEMENT_REASONER):
         super().__init__(prompt)
 
