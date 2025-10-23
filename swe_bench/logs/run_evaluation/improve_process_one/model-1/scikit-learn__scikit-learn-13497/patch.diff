@@ -1,0 +1,13 @@
+```diff
+diff --git a/sklearn/feature_selection/_mutual_info.py b/sklearn/feature_selection/_mutual_info.py
+--- a/sklearn/feature_selection/_mutual_info.py
++++ b/sklearn/feature_selection/_mutual_info.py
+@@ -257,7 +257,7 @@ def _estimate_mi(X, y, discrete_features='auto', *,
+         raise ValueError("Invalid type for discrete_features. Must be boolean, an array of indices, or 'auto'.")
+
+     if discrete_features == 'auto':
+-        discrete_features = np.arange(X.shape[1])
++        discrete_features = np.arange(X.shape[1]) if not isinstance(X, (list, np.ndarray)) else discrete_features
+
+     # Further implementation ...
+```

@@ -1,0 +1,2817 @@
+2025-10-23 03:12:06,459 - INFO - Creating container for matplotlib__matplotlib-24334...
+2025-10-23 03:12:24,440 - INFO - Container for matplotlib__matplotlib-24334 created: 0586828cb9da0945131ed8652b6a130c2dfad2b51ebd303b07c578dc1d10f1e1
+2025-10-23 03:12:25,031 - INFO - Container for matplotlib__matplotlib-24334 started: 0586828cb9da0945131ed8652b6a130c2dfad2b51ebd303b07c578dc1d10f1e1
+2025-10-23 03:12:25,031 - INFO - Intermediate patch for matplotlib__matplotlib-24334 written to logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/patch.diff, now applying to container...
+2025-10-23 03:12:25,191 - INFO - Failed to apply patch to container: git apply --verbose
+2025-10-23 03:12:25,257 - INFO - Failed to apply patch to container: git apply --verbose --reject
+2025-10-23 03:12:25,328 - INFO - Failed to apply patch to container: patch --batch --fuzz=5 -p1 -i
+2025-10-23 03:12:25,328 - INFO - >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+2025-10-23 03:12:25,345 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: <exception str() failed>
+
+2025-10-23 03:12:25,345 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,345 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,345 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,345 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,345 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,345 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,345 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,345 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,345 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,345 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,345 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,345 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,345 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,345 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,346 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,346 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,346 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,346 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,346 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,346 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,346 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,346 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,346 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,346 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,346 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,346 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,346 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,346 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,346 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,346 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,346 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,346 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,346 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,346 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,346 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,346 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,346 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,346 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,346 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,347 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,347 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,347 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,347 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,347 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,347 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,347 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,347 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,347 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,347 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,347 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,347 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,347 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,347 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,347 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,347 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,347 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,347 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,347 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,347 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,347 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,347 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,347 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,347 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,348 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,348 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,348 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,348 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,348 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,348 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,348 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,348 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,348 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,348 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,348 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,348 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,348 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,348 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,348 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,348 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,348 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,348 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,348 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,348 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,348 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,348 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,348 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,348 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,348 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,349 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,349 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,349 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,349 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,349 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,349 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,349 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,349 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,349 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,349 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,349 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,349 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,349 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,349 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,349 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,349 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,349 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,349 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,349 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,349 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,349 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,349 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,349 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,349 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,349 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,350 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,350 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,350 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,350 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,350 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,350 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,350 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,350 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,350 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,350 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,350 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,350 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,350 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,350 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,350 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,350 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,350 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,350 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,350 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,350 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,350 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,350 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,350 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,351 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,351 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,351 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,351 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,367 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: <exception str() failed>
+
+2025-10-23 03:12:25,367 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,367 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,367 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,367 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,367 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,367 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,367 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,367 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,367 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,367 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,367 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,367 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,367 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,367 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,367 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,367 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,367 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,367 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,367 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,367 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,367 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,367 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,367 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,368 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,368 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,368 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,368 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,368 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,368 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,368 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,368 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,368 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,368 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,368 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,368 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,368 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,368 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,368 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,368 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,368 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,368 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,368 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,368 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,368 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,368 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,368 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,368 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,369 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,369 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,369 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,369 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,369 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,369 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,369 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,369 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,369 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,369 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,369 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,369 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,369 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,369 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,369 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,369 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,369 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,369 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,369 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,369 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,369 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,369 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,369 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,369 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,369 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,370 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,370 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,370 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,370 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,370 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,370 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,370 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,370 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,370 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,370 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,370 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,370 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,370 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,370 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,370 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,370 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,370 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,370 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,370 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,370 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,370 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,370 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,370 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,370 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,371 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,371 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,371 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,371 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,371 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,371 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,371 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,371 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,371 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,371 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,371 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,371 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,371 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,371 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,371 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,371 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,371 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,371 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,371 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,371 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,371 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,371 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,371 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,371 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,371 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,371 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,371 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,372 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,372 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,372 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,372 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,372 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,372 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,372 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,372 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,372 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,372 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,372 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,372 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,372 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,372 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,372 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,372 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-24334: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/axis.py
+patch: **** malformed patch at line 14: ```
+
+
+Check (logs/run_evaluation/improve_process_one/model-2/matplotlib__matplotlib-24334/run_instance.log) for more information.
+
+2025-10-23 03:12:25,372 - INFO - Attempting to stop container sweb.eval.matplotlib__matplotlib-24334.improve_process_one...
+2025-10-23 03:12:41,406 - INFO - Attempting to remove container sweb.eval.matplotlib__matplotlib-24334.improve_process_one...
+2025-10-23 03:12:41,622 - INFO - Container sweb.eval.matplotlib__matplotlib-24334.improve_process_one removed.
+2025-10-23 03:12:41,623 - INFO - Attempting to remove image swebench/sweb.eval.x86_64.matplotlib_1776_matplotlib-24334:latest...
+2025-10-23 03:12:45,577 - INFO - Image swebench/sweb.eval.x86_64.matplotlib_1776_matplotlib-24334:latest removed.

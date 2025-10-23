@@ -1,0 +1,13 @@
+```diff
+diff --git a/lib/matplotlib/colors.py b/lib/matplotlib/colors.py
+--- a/lib/matplotlib/colors.py
++++ b/lib/matplotlib/colors.py
+@@ -735,7 +735,7 @@
+             xa[mask_bad] = self._i_bad
+         # Cast to the appropriate dtype explicitly
+         xa = np.array(xa, copy=False)
+-        xa = xa.astype(np.uint8)
++        xa = np.clip(xa, 0, 255).astype(np.uint8)
+ 
+         return xa
+```

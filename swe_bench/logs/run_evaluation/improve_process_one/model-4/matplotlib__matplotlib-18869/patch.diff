@@ -1,0 +1,11 @@
+```diff
+diff --git a/lib/matplotlib/__init__.py b/lib/matplotlib/__init__.py
+--- a/lib/matplotlib/__init__.py
++++ b/lib/matplotlib/__init__.py
+@@ -1,5 +1,6 @@
+ 
+ __version__ = '3.5.0'
++version_info = (3, 5, 0, 'final', 0)
+ 
+ __all__ = ['__version__', 'version_info', ...]
+```

@@ -1,0 +1,26 @@
+```diff
+diff --git a/models.py b/models.py
+--- a/models.py
++++ b/models.py
+@@ -1,6 +1,6 @@
+ from django.db import models
+ 
+ class Character(models.Model):
+-    name = models.CharField(max_length=100)
++    name = models.CharField(max_length=100, unique=True)
+ 
+ class StumpJoke(models.Model):
+     funniest = models.BooleanField(default=False)
+diff --git a/forms.py b/forms.py
+--- a/forms.py
++++ b/forms.py
+@@ -1,4 +1,4 @@
+ from django import forms
+ from .models import StumpJoke, Character
+ 
+ class StumpJokeForm(forms.ModelForm):
+-    class Meta:
++    class Meta:
+         model = StumpJoke
+         fields = '__all__'
+```

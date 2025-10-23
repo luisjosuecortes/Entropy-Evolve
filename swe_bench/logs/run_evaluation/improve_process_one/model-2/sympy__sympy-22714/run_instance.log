@@ -1,0 +1,3377 @@
+2025-10-23 03:10:24,282 - INFO - Creating container for sympy__sympy-22714...
+2025-10-23 03:10:57,149 - INFO - Container for sympy__sympy-22714 created: c46df471d2234f969ecc292845cb3668ca73ea21b980726f39da2486823f497b
+2025-10-23 03:10:59,468 - INFO - Container for sympy__sympy-22714 started: c46df471d2234f969ecc292845cb3668ca73ea21b980726f39da2486823f497b
+2025-10-23 03:10:59,468 - INFO - Intermediate patch for sympy__sympy-22714 written to logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/patch.diff, now applying to container...
+2025-10-23 03:10:59,642 - INFO - Failed to apply patch to container: git apply --verbose
+2025-10-23 03:10:59,722 - INFO - Failed to apply patch to container: git apply --verbose --reject
+2025-10-23 03:10:59,789 - INFO - Failed to apply patch to container: patch --batch --fuzz=5 -p1 -i
+2025-10-23 03:10:59,789 - INFO - >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+2025-10-23 03:10:59,807 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: <exception str() failed>
+
+2025-10-23 03:10:59,807 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,807 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,807 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,807 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,807 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,807 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,807 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,808 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,808 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,808 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,808 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,808 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,808 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,808 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,808 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,808 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,808 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,808 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,808 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,808 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,808 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,808 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,808 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,808 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,808 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,808 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,808 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,808 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,809 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,809 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,809 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,809 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,809 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,809 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,809 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,809 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,809 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,809 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,809 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,809 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,809 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,809 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,809 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,809 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,809 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,809 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,809 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,809 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,809 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,809 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,810 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,810 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,810 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,810 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,810 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,810 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,810 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,810 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,810 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,810 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,810 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,810 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,810 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,810 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,810 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,810 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,810 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,810 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,810 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,810 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,810 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,810 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,811 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,811 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,811 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,811 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,811 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,811 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,811 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,811 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,811 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,811 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,811 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,811 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,811 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,811 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,811 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,811 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,811 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,811 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,811 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,811 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,811 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,812 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,812 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,812 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,812 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,812 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,812 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,812 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,812 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,812 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,812 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,812 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,812 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,812 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,812 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,812 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,812 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,812 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,812 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,812 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,812 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,813 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,813 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,813 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,813 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,813 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,813 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,813 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,813 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,813 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,813 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,813 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,813 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,813 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,813 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,813 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,813 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,813 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,813 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,813 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,813 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,814 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,814 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,814 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,814 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,814 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,814 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,814 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,832 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: <exception str() failed>
+
+2025-10-23 03:10:59,832 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,832 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,832 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,832 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,832 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,832 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,832 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,832 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,832 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,832 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,832 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,832 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,832 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,832 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,833 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,833 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,833 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,833 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,833 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,833 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,833 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,833 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,833 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,833 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,833 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,833 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,833 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,833 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,833 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,833 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,833 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,833 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,833 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,833 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,833 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,833 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,834 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,834 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,834 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,834 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,834 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,834 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,834 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,834 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,834 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,834 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,834 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,834 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,834 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,834 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,834 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,834 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,834 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,834 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,834 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,834 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,834 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,835 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,835 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,835 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,835 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,835 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,835 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,835 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,835 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,835 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,835 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,835 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,835 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,835 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,835 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,835 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,835 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,835 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,835 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,835 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,835 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,835 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,836 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,836 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,836 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,836 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,836 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,836 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,836 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,836 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,836 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,836 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,836 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,836 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,836 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,836 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,836 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,836 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,836 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,836 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,836 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,836 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,836 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,836 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,837 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,837 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,837 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,837 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,837 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,837 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,837 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,837 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,837 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,837 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,837 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,837 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,837 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,837 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,837 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,837 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,837 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,837 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,837 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,837 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,837 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,837 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,837 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,838 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,838 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,838 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,838 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,838 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,838 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,838 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,838 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,838 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,838 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,838 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,838 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,838 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,838 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,838 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,838 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-22714: >>>>> Patch Apply Failed:
+patching file sympy/core/sympify.py
+Hunk #1 FAILED at 469.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file sympy/core/sympify.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/sympy__sympy-22714/run_instance.log) for more information.
+
+2025-10-23 03:10:59,838 - INFO - Attempting to stop container sweb.eval.sympy__sympy-22714.improve_process_one...
+2025-10-23 03:11:32,613 - INFO - Attempting to remove container sweb.eval.sympy__sympy-22714.improve_process_one...
+2025-10-23 03:11:33,072 - INFO - Container sweb.eval.sympy__sympy-22714.improve_process_one removed.
+2025-10-23 03:11:33,072 - INFO - Attempting to remove image swebench/sweb.eval.x86_64.sympy_1776_sympy-22714:latest...
+2025-10-23 03:11:33,810 - INFO - Image swebench/sweb.eval.x86_64.sympy_1776_sympy-22714:latest removed.
