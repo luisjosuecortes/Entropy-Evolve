@@ -1,0 +1,175 @@
+2025-10-23 03:20:22,402 - INFO - Creating container for sympy__sympy-13437...
+2025-10-23 03:21:22,464 - ERROR - Error creating container for sympy__sympy-13437: UnixHTTPConnectionPool(host='localhost', port=None): Read timed out. (read timeout=60)
+2025-10-23 03:21:22,465 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/urllib3/connectionpool.py", line 534, in _make_request
+    response = conn.getresponse()
+               ^^^^^^^^^^^^^^^^^^
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/urllib3/connection.py", line 565, in getresponse
+    httplib_response = super().getresponse()
+                       ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/http/client.py", line 1395, in getresponse
+    response.begin()
+  File "/usr/local/lib/python3.11/http/client.py", line 325, in begin
+    version, status, reason = self._read_status()
+                              ^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/http/client.py", line 286, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/socket.py", line 718, in readinto
+    return self._sock.recv_into(b)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+TimeoutError: timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/requests/adapters.py", line 644, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/urllib3/connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/urllib3/util/retry.py", line 474, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/urllib3/util/util.py", line 39, in reraise
+    raise value
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/urllib3/connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/urllib3/connectionpool.py", line 536, in _make_request
+    self._raise_timeout(err=e, url=url, timeout_value=read_timeout)
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/urllib3/connectionpool.py", line 367, in _raise_timeout
+    raise ReadTimeoutError(
+urllib3.exceptions.ReadTimeoutError: UnixHTTPConnectionPool(host='localhost', port=None): Read timed out. (read timeout=60)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/docker_build.py", line 516, in build_container
+    container = client.containers.create(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/docker/models/containers.py", line 935, in create
+    resp = self.client.api.create_container(**create_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/docker/api/container.py", line 440, in create_container
+    return self.create_container_from_config(config, name, platform)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/docker/api/container.py", line 456, in create_container_from_config
+    res = self._post_json(u, data=config, params=params)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/docker/api/client.py", line 303, in _post_json
+    return self._post(url, data=json.dumps(data2), **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/docker/utils/decorators.py", line 44, in inner
+    return f(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/docker/api/client.py", line 242, in _post
+    return self.post(url, **self._set_request_timeout(kwargs))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/requests/sessions.py", line 637, in post
+    return self.request("POST", url, data=data, json=json, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/requests/adapters.py", line 690, in send
+    raise ReadTimeout(e, request=request)
+requests.exceptions.ReadTimeout: UnixHTTPConnectionPool(host='localhost', port=None): Read timed out. (read timeout=60)
+
+2025-10-23 03:21:22,467 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/urllib3/connectionpool.py", line 534, in _make_request
+    response = conn.getresponse()
+               ^^^^^^^^^^^^^^^^^^
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/urllib3/connection.py", line 565, in getresponse
+    httplib_response = super().getresponse()
+                       ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/http/client.py", line 1395, in getresponse
+    response.begin()
+  File "/usr/local/lib/python3.11/http/client.py", line 325, in begin
+    version, status, reason = self._read_status()
+                              ^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/http/client.py", line 286, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/socket.py", line 718, in readinto
+    return self._sock.recv_into(b)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+TimeoutError: timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/requests/adapters.py", line 644, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/urllib3/connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/urllib3/util/retry.py", line 474, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/urllib3/util/util.py", line 39, in reraise
+    raise value
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/urllib3/connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/urllib3/connectionpool.py", line 536, in _make_request
+    self._raise_timeout(err=e, url=url, timeout_value=read_timeout)
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/urllib3/connectionpool.py", line 367, in _raise_timeout
+    raise ReadTimeoutError(
+urllib3.exceptions.ReadTimeoutError: UnixHTTPConnectionPool(host='localhost', port=None): Read timed out. (read timeout=60)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/docker_build.py", line 516, in build_container
+    container = client.containers.create(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/docker/models/containers.py", line 935, in create
+    resp = self.client.api.create_container(**create_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/docker/api/container.py", line 440, in create_container
+    return self.create_container_from_config(config, name, platform)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/docker/api/container.py", line 456, in create_container_from_config
+    res = self._post_json(u, data=config, params=params)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/docker/api/client.py", line 303, in _post_json
+    return self._post(url, data=json.dumps(data2), **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/docker/utils/decorators.py", line 44, in inner
+    return f(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/docker/api/client.py", line 242, in _post
+    return self.post(url, **self._set_request_timeout(kwargs))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/requests/sessions.py", line 637, in post
+    return self.request("POST", url, data=data, json=json, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/requests/adapters.py", line 690, in send
+    raise ReadTimeout(e, request=request)
+requests.exceptions.ReadTimeout: UnixHTTPConnectionPool(host='localhost', port=None): Read timed out. (read timeout=60)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 152, in run_instance
+    container = build_container(
+                ^^^^^^^^^^^^^^^^
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/docker_build.py", line 532, in build_container
+    raise BuildImageError(test_spec.instance_id, str(e), logger) from e
+swebench.harness.docker_build.BuildImageError: Error building image sympy__sympy-13437: UnixHTTPConnectionPool(host='localhost', port=None): Read timed out. (read timeout=60)
+Check (logs/run_evaluation/improve_process_one/model-3/sympy__sympy-13437/run_instance.log) for more information.
+
+2025-10-23 03:21:22,467 - INFO - Attempting to remove image swebench/sweb.eval.x86_64.sympy_1776_sympy-13437:latest...
+2025-10-23 03:21:23,090 - INFO - Image swebench/sweb.eval.x86_64.sympy_1776_sympy-13437:latest removed.

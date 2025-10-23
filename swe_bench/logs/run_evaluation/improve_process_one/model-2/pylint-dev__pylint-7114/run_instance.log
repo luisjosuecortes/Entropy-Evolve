@@ -1,0 +1,3097 @@
+2025-10-23 03:10:35,274 - INFO - Creating container for pylint-dev__pylint-7114...
+2025-10-23 03:10:57,147 - INFO - Container for pylint-dev__pylint-7114 created: cc2ff33e2449830025bb308359c88016a0d518380991b686f806e46aa9355e15
+2025-10-23 03:10:58,892 - INFO - Container for pylint-dev__pylint-7114 started: cc2ff33e2449830025bb308359c88016a0d518380991b686f806e46aa9355e15
+2025-10-23 03:10:58,893 - INFO - Intermediate patch for pylint-dev__pylint-7114 written to logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/patch.diff, now applying to container...
+2025-10-23 03:10:59,069 - INFO - Failed to apply patch to container: git apply --verbose
+2025-10-23 03:10:59,136 - INFO - Failed to apply patch to container: git apply --verbose --reject
+2025-10-23 03:10:59,206 - INFO - Failed to apply patch to container: patch --batch --fuzz=5 -p1 -i
+2025-10-23 03:10:59,207 - INFO - >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+2025-10-23 03:10:59,225 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: <exception str() failed>
+
+2025-10-23 03:10:59,225 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,225 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,225 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,225 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,225 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,225 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,225 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,225 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,225 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,225 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,225 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,225 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,225 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,226 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,226 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,226 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,226 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,226 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,226 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,226 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,226 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,226 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,226 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,226 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,226 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,226 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,226 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,226 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,226 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,226 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,226 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,226 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,226 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,226 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,226 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,227 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,227 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,227 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,227 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,227 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,227 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,227 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,227 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,227 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,227 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,227 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,227 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,227 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,227 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,227 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,227 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,227 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,227 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,227 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,227 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,227 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,227 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,228 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,228 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,228 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,228 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,228 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,228 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,228 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,228 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,228 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,228 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,228 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,228 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,228 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,228 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,228 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,228 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,228 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,228 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,228 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,228 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,228 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,229 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,229 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,229 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,229 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,229 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,229 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,229 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,229 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,229 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,229 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,229 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,229 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,229 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,229 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,229 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,229 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,229 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,229 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,230 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,230 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,230 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,230 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,230 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,230 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,230 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,230 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,230 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,230 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,230 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,230 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,230 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,230 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,230 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,230 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,230 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,230 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,230 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,230 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,231 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,231 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,231 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,231 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,231 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,231 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,231 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,231 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,231 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,231 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,231 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,231 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,231 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,231 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,231 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,231 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,231 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,231 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,231 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,232 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,232 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,232 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,232 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,232 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,256 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: <exception str() failed>
+
+2025-10-23 03:10:59,256 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,256 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,256 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,256 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,256 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,256 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,257 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,257 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,257 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,257 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,257 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,257 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,257 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,257 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,257 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,257 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,257 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,257 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,257 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,257 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,257 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,257 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,257 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,258 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,258 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,258 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,258 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,258 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,258 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,258 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,258 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,258 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,258 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,258 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,258 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,258 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,258 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,258 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,258 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,259 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,259 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,259 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,259 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,259 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,259 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,259 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,259 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,259 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,259 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,259 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,259 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,259 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,259 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,259 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,259 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,260 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,260 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,260 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,260 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,260 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,260 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,260 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,260 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,260 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,260 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,260 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,260 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,260 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,260 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,260 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,260 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,260 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,260 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,260 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,261 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,261 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,261 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,261 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,261 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,261 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,261 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,261 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,261 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,261 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,261 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,261 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,261 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,261 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,261 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,261 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,261 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,261 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,261 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,261 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,261 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,262 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,262 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,262 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,262 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,262 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,262 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,262 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,262 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,262 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,262 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,262 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,262 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,262 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,262 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,262 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,262 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,262 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,262 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,262 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,262 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,262 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,262 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,263 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,263 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,263 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,263 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,263 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,263 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,263 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,263 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,263 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,263 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,263 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,263 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,263 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,263 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,263 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,263 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,263 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,263 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,263 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,263 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,263 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,264 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pylint-dev__pylint-7114: >>>>> Patch Apply Failed:
+patch: **** malformed patch at line 16:  
+
+patching file pylint/checkers/imports.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/pylint-dev__pylint-7114/run_instance.log) for more information.
+
+2025-10-23 03:10:59,264 - INFO - Attempting to stop container sweb.eval.pylint-dev__pylint-7114.improve_process_one...
+2025-10-23 03:11:29,203 - INFO - Attempting to remove container sweb.eval.pylint-dev__pylint-7114.improve_process_one...
+2025-10-23 03:11:30,012 - INFO - Container sweb.eval.pylint-dev__pylint-7114.improve_process_one removed.
+2025-10-23 03:11:30,012 - INFO - Attempting to remove image swebench/sweb.eval.x86_64.pylint-dev_1776_pylint-7114:latest...
+2025-10-23 03:11:31,384 - INFO - Image swebench/sweb.eval.x86_64.pylint-dev_1776_pylint-7114:latest removed.

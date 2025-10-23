@@ -1,0 +1,2817 @@
+2025-10-23 02:59:16,648 - INFO - Creating container for sympy__sympy-18057...
+2025-10-23 02:59:22,787 - INFO - Container for sympy__sympy-18057 created: 546e5ece82bc55a3891a9bf718e36e43876bd497845b3d161fb58af3d7f09e1f
+2025-10-23 02:59:25,354 - INFO - Container for sympy__sympy-18057 started: 546e5ece82bc55a3891a9bf718e36e43876bd497845b3d161fb58af3d7f09e1f
+2025-10-23 02:59:25,354 - INFO - Intermediate patch for sympy__sympy-18057 written to logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/patch.diff, now applying to container...
+2025-10-23 02:59:25,513 - INFO - Failed to apply patch to container: git apply --verbose
+2025-10-23 02:59:25,597 - INFO - Failed to apply patch to container: git apply --verbose --reject
+2025-10-23 02:59:25,673 - INFO - Failed to apply patch to container: patch --batch --fuzz=5 -p1 -i
+2025-10-23 02:59:25,673 - INFO - >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+2025-10-23 02:59:25,690 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: <exception str() failed>
+
+2025-10-23 02:59:25,690 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,690 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,690 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,690 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,690 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,690 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,690 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,691 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,691 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,691 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,691 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,691 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,691 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,691 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,691 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,691 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,691 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,691 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,691 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,691 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,691 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,691 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,691 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,691 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,691 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,691 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,691 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,691 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,691 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,692 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,692 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,692 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,692 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,692 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,692 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,692 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,692 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,692 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,692 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,692 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,692 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,692 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,692 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,692 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,692 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,692 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,692 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,692 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,692 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,692 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,692 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,692 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,693 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,693 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,693 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,693 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,693 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,693 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,693 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,693 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,693 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,693 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,693 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,693 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,693 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,693 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,693 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,693 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,693 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,693 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,693 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,693 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,693 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,693 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,694 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,694 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,694 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,694 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,694 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,694 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,694 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,694 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,694 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,694 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,694 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,694 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,694 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,694 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,694 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,694 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,694 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,694 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,694 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,694 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,694 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,694 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,694 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,695 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,695 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,695 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,695 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,695 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,695 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,695 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,695 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,695 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,695 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,695 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,695 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,695 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,695 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,695 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,695 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,695 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,695 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,695 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,695 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,695 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,695 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,695 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,696 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,696 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,696 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,696 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,696 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,696 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,696 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,696 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,696 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,696 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,696 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,696 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,696 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,696 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,696 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,696 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,696 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,696 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,696 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,696 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,712 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: <exception str() failed>
+
+2025-10-23 02:59:25,713 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,713 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,713 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,713 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,713 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,713 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,713 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,713 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,713 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,713 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,713 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,713 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,713 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,713 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,713 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,713 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,713 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,713 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,713 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,713 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,713 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,713 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,714 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,714 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,714 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,714 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,714 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,714 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,714 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,714 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,714 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,714 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,714 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,714 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,714 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,714 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,714 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,714 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,714 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,714 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,714 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,714 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,714 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,714 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,715 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,715 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,715 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,715 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,715 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,715 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,715 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,715 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,715 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,715 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,715 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,715 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,715 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,715 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,715 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,715 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,715 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,715 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,715 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,715 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,715 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,715 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,715 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,716 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,716 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,716 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,716 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,716 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,716 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,716 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,716 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,716 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,716 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,716 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,716 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,716 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,716 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,716 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,716 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,716 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,716 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,716 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,716 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,716 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,716 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,716 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,717 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,717 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,717 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,717 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,717 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,717 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,717 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,717 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,717 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,717 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,717 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,717 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,717 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,717 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,717 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,717 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,717 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,717 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,717 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,717 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,717 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,717 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,717 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,717 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,718 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,718 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,718 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,718 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,718 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,718 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,718 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,718 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,718 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,718 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,718 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,718 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,718 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,718 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,718 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,718 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,718 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,718 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,718 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,718 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,718 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,718 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,718 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,719 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,719 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sympy__sympy-18057: >>>>> Patch Apply Failed:
+patching file sympy/core/expr.py
+patch: **** malformed patch at line 14:      # Compare the two expressions
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/sympy__sympy-18057/run_instance.log) for more information.
+
+2025-10-23 02:59:25,719 - INFO - Attempting to stop container sweb.eval.sympy__sympy-18057.improve_process_one...
+2025-10-23 02:59:42,542 - INFO - Attempting to remove container sweb.eval.sympy__sympy-18057.improve_process_one...
+2025-10-23 02:59:43,028 - INFO - Container sweb.eval.sympy__sympy-18057.improve_process_one removed.
+2025-10-23 02:59:43,028 - INFO - Attempting to remove image swebench/sweb.eval.x86_64.sympy_1776_sympy-18057:latest...
+2025-10-23 02:59:43,694 - INFO - Image swebench/sweb.eval.x86_64.sympy_1776_sympy-18057:latest removed.

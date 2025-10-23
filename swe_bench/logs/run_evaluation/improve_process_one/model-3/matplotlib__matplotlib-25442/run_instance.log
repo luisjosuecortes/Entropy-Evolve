@@ -1,0 +1,3377 @@
+2025-10-23 03:22:54,814 - INFO - Creating container for matplotlib__matplotlib-25442...
+2025-10-23 03:23:29,960 - INFO - Container for matplotlib__matplotlib-25442 created: 482c0826260f004c989c78214eeab8ea890d056a46ac112233295d221c708905
+2025-10-23 03:23:30,795 - INFO - Container for matplotlib__matplotlib-25442 started: 482c0826260f004c989c78214eeab8ea890d056a46ac112233295d221c708905
+2025-10-23 03:23:30,795 - INFO - Intermediate patch for matplotlib__matplotlib-25442 written to logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/patch.diff, now applying to container...
+2025-10-23 03:23:30,931 - INFO - Failed to apply patch to container: git apply --verbose
+2025-10-23 03:23:31,004 - INFO - Failed to apply patch to container: git apply --verbose --reject
+2025-10-23 03:23:31,071 - INFO - Failed to apply patch to container: patch --batch --fuzz=5 -p1 -i
+2025-10-23 03:23:31,071 - INFO - >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+2025-10-23 03:23:31,089 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: <exception str() failed>
+
+2025-10-23 03:23:31,089 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,089 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,089 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,089 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,089 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,089 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,089 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,089 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,089 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,089 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,089 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,089 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,089 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,089 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,089 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,089 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,089 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,089 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,089 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,089 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,089 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,090 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,090 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,090 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,090 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,090 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,090 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,090 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,090 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,090 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,090 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,090 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,090 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,090 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,090 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,090 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,090 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,090 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,090 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,090 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,090 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,090 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,090 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,091 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,091 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,091 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,091 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,091 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,091 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,091 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,091 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,091 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,091 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,091 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,091 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,091 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,091 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,091 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,091 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,091 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,091 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,091 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,091 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,091 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,091 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,091 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,091 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,092 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,092 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,092 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,092 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,092 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,092 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,092 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,092 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,092 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,092 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,092 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,092 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,092 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,092 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,092 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,092 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,092 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,092 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,092 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,092 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,092 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,092 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,092 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,093 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,093 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,093 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,093 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,093 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,093 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,093 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,093 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,093 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,093 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,093 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,093 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,093 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,093 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,093 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,093 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,093 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,093 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,093 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,093 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,093 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,093 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,093 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,094 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,094 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,094 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,094 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,094 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,094 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,094 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,094 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,094 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,094 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,094 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,094 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,094 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,094 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,094 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,094 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,094 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,094 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,094 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,094 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,094 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,094 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,094 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,094 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,095 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,095 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,095 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,110 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: <exception str() failed>
+
+2025-10-23 03:23:31,110 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,110 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,110 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,110 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,110 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,111 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,111 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,111 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,111 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,111 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,111 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,111 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,111 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,111 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,111 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,111 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,111 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,111 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,111 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,111 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,111 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,111 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,111 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,111 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,111 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,111 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,111 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,111 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,111 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,112 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,112 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,112 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,112 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,112 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,112 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,112 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,112 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,112 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,112 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,112 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,112 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,112 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,112 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,112 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,112 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,112 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,112 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,112 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,112 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,112 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,112 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,112 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,112 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,113 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,113 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,113 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,113 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,113 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,113 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,113 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,113 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,113 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,113 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,113 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,113 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,113 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,113 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,113 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,113 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,113 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,113 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,113 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,113 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,113 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,113 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,113 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,113 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,114 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,114 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,114 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,114 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,114 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,114 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,114 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,114 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,114 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,114 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,114 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,114 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,114 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,114 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,114 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,114 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,114 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,114 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,114 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,114 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,114 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,114 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,114 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,114 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,114 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,115 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,115 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,115 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,115 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,115 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,115 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,115 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,115 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,115 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,115 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,115 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,115 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,115 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,115 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,115 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,115 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,115 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,115 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,115 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,115 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,115 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,115 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,115 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,116 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,116 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,116 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,116 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,116 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,116 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,116 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,116 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,116 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,116 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,116 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,116 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,116 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,116 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: matplotlib__matplotlib-25442: >>>>> Patch Apply Failed:
+patching file lib/matplotlib/offsetbox.py
+Hunk #1 FAILED at 1514.
+patch unexpectedly ends in middle of line
+1 out of 1 hunk FAILED -- saving rejects to file lib/matplotlib/offsetbox.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-3/matplotlib__matplotlib-25442/run_instance.log) for more information.
+
+2025-10-23 03:23:31,116 - INFO - Attempting to stop container sweb.eval.matplotlib__matplotlib-25442.improve_process_one...
+2025-10-23 03:23:46,980 - INFO - Attempting to remove container sweb.eval.matplotlib__matplotlib-25442.improve_process_one...
+2025-10-23 03:23:48,275 - INFO - Container sweb.eval.matplotlib__matplotlib-25442.improve_process_one removed.
+2025-10-23 03:23:48,275 - INFO - Attempting to remove image swebench/sweb.eval.x86_64.matplotlib_1776_matplotlib-25442:latest...
+2025-10-23 03:23:51,607 - INFO - Image swebench/sweb.eval.x86_64.matplotlib_1776_matplotlib-25442:latest removed.

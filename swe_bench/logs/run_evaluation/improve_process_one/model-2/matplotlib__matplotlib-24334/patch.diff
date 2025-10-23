@@ -1,0 +1,14 @@
+```diff
+diff --git a/lib/matplotlib/axis.py b/lib/matplotlib/axis.py
+--- a/lib/matplotlib/axis.py
++++ b/lib/matplotlib/axis.py
+@@ -1020,6 +1020,22 @@
+         self._update_ticks()
+ 
+     def set_ticks(self, ticks, **kwargs):
++        if not kwargs.get('labels') and any(k for k in kwargs):
++            raise ValueError("kwargs are not allowed without labels.")
++
+         self._ticks = ticks
+         self._set_ticks(ticks, **kwargs)
+```

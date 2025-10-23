@@ -1,0 +1,15 @@
+```diff
+diff --git a/sympy/core/sympify.py b/sympy/core/sympify.py
+index 12c4101f71..d7baf5b264 100644
+--- a/sympy/core/sympify.py
++++ b/sympy/core/sympify.py
+@@ -469,7 +469,7 @@ def sympify(a, locals=None, evaluate=True):
+     # to get around the limitations of __new__ in some cases
+     if isinstance(a, str):
+         expr = parse_expr(a, local_dict=locals, transformations=transformations, evaluate=evaluate)
+-    elif evaluate:
++    elif evaluate and not isinstance(a, Point):
+         expr = eval_expr(a, local_dict, global_dict)
+     else:
+         expr = a
+```

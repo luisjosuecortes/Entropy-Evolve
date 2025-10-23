@@ -1,0 +1,14 @@
+```diff
+diff --git a/sympy/tensor/array/dense_ndim_array.py b/sympy/tensor/array/dense_ndim_array.py
+--- a/sympy/tensor/array/dense_ndim_array.py
++++ b/sympy/tensor/array/dense_ndim_array.py
+@@ -130,7 +130,7 @@
+     def __new__(cls, iterable, shape=None, **kwargs):
+         # Check for empty input for Array
+         if iterable == []:
+-            raise ValueError("Cannot create an Array from an empty iterable")
++            return cls.zeros(shape) if shape else cls([])  # Allow creation of empty Arrays
+         return cls._new(iterable, shape, **kwargs)
+ 
+     @classmethod
+```

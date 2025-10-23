@@ -1,0 +1,2817 @@
+2025-10-23 03:11:00,002 - INFO - Creating container for django__django-14534...
+2025-10-23 03:11:15,428 - INFO - Container for django__django-14534 created: fa8a1c2580114676797f8e729b63438b4c3f8d4040f005c45da145a39f1848fa
+2025-10-23 03:11:17,592 - INFO - Container for django__django-14534 started: fa8a1c2580114676797f8e729b63438b4c3f8d4040f005c45da145a39f1848fa
+2025-10-23 03:11:17,593 - INFO - Intermediate patch for django__django-14534 written to logs/run_evaluation/improve_process_one/model-2/django__django-14534/patch.diff, now applying to container...
+2025-10-23 03:11:17,754 - INFO - Failed to apply patch to container: git apply --verbose
+2025-10-23 03:11:17,816 - INFO - Failed to apply patch to container: git apply --verbose --reject
+2025-10-23 03:11:17,878 - INFO - Failed to apply patch to container: patch --batch --fuzz=5 -p1 -i
+2025-10-23 03:11:17,879 - INFO - >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+2025-10-23 03:11:17,896 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: <exception str() failed>
+
+2025-10-23 03:11:17,897 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,897 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,897 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,897 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,897 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,897 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,897 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,897 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,897 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,897 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,897 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,897 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,897 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,897 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,897 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,897 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,897 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,897 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,897 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,897 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,898 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,898 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,898 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,898 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,898 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,898 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,898 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,898 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,898 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,898 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,898 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,898 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,898 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,898 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,898 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,898 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,898 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,898 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,898 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,898 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,899 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,899 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,899 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,899 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,899 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,899 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,899 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,899 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,899 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,899 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,899 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,899 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,899 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,899 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,899 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,899 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,899 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,899 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,899 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,899 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,899 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,899 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,899 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,900 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,900 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,900 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,900 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,900 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,900 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,900 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,900 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,900 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,900 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,900 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,900 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,900 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,900 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,900 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,900 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,900 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,900 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,900 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,900 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,900 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,900 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,901 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,901 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,901 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,901 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,901 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,901 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,901 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,901 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,901 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,901 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,901 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,901 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,901 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,901 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,901 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,901 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,901 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,901 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,901 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,901 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,901 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,901 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,901 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,902 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,902 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,902 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,902 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,902 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,902 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,902 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,902 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,902 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,902 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,902 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,902 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,902 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,902 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,902 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,902 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,902 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,902 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,902 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,902 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,902 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,902 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,902 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,903 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,903 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,903 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,903 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,903 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,903 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,903 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,903 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,903 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,919 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: <exception str() failed>
+
+2025-10-23 03:11:17,920 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,920 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,920 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,920 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,920 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,920 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,920 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,920 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,920 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,920 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,920 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,920 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,920 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,920 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,920 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,920 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,920 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,920 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,920 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,920 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,920 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,920 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,920 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,921 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,921 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,921 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,921 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,921 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,921 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,921 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,921 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,921 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,921 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,921 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,921 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,921 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,921 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,921 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,921 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,921 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,921 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,921 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,921 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,921 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,921 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,921 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,922 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,922 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,922 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,922 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,922 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,922 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,922 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,922 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,922 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,922 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,922 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,922 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,922 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,922 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,922 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,922 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,922 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,922 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,922 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,922 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,922 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,922 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,922 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,922 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,922 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,923 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,923 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,923 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,923 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,923 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,923 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,923 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,923 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,923 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,923 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,923 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,923 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,923 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,923 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,923 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,923 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,923 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,923 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,923 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,923 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,923 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,923 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,923 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,924 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,924 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,924 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,924 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,924 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,924 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,924 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,924 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,924 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,924 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,924 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,924 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,924 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,924 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,924 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,924 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,924 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,924 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,924 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,924 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,924 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,924 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,924 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,924 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,925 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,925 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,925 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,925 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,925 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,925 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,925 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,925 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,925 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,925 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,925 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,925 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,925 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,925 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,925 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,925 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,925 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,925 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,925 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,925 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,925 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-14534: >>>>> Patch Apply Failed:
+patch: **** unexpected end of file in patch
+patching file django/forms/boundfield.py
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/improve_process_one/model-2/django__django-14534/run_instance.log) for more information.
+
+2025-10-23 03:11:17,925 - INFO - Attempting to stop container sweb.eval.django__django-14534.improve_process_one...
+2025-10-23 03:11:44,499 - INFO - Attempting to remove container sweb.eval.django__django-14534.improve_process_one...
+2025-10-23 03:11:44,661 - INFO - Container sweb.eval.django__django-14534.improve_process_one removed.
+2025-10-23 03:11:44,661 - INFO - Attempting to remove image swebench/sweb.eval.x86_64.django_1776_django-14534:latest...
+2025-10-23 03:11:44,940 - INFO - Image swebench/sweb.eval.x86_64.django_1776_django-14534:latest removed.

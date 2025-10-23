@@ -1,0 +1,14 @@
+```diff
+diff --git a/sympy/printing/latex.py b/sympy/printing/latex.py
+--- a/sympy/printing/latex.py
++++ b/sympy/printing/latex.py
+@@ -1000,6 +1000,7 @@ class LatexPrinter(Printer):
+         # Custom handling for the trace function
+         if isinstance(expr, Trace):
+             return r"\mathrm{tr}\left ({0} \right )".format(self._print(expr.args[0]))
+ 
++        expr = sympify(expr)  # Ensure expression is converted properly
+         # For other cases, use the default printing method
+         return super().doprint(expr)
+ 
+```
