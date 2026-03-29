@@ -1,0 +1,2817 @@
+2025-10-23 03:05:53,217 - INFO - Creating container for astropy__astropy-7746...
+2025-10-23 03:06:16,452 - INFO - Container for astropy__astropy-7746 created: 4187194965df8885692c215363908720906fe43f2fc3e7fbf7fe729f79a194ea
+2025-10-23 03:06:18,297 - INFO - Container for astropy__astropy-7746 started: 4187194965df8885692c215363908720906fe43f2fc3e7fbf7fe729f79a194ea
+2025-10-23 03:06:18,297 - INFO - Intermediate patch for astropy__astropy-7746 written to logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/patch.diff, now applying to container...
+2025-10-23 03:06:18,501 - INFO - Failed to apply patch to container: git apply --verbose
+2025-10-23 03:06:18,563 - INFO - Failed to apply patch to container: git apply --verbose --reject
+2025-10-23 03:06:18,681 - INFO - Failed to apply patch to container: patch --batch --fuzz=5 -p1 -i
+2025-10-23 03:06:18,681 - INFO - >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+2025-10-23 03:06:18,700 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: <exception str() failed>
+
+2025-10-23 03:06:18,701 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,701 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,701 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,702 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,703 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,703 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,704 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,705 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,705 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,705 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,705 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,705 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,705 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,705 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,706 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,706 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,706 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,706 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,706 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,706 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,706 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,707 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,707 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,708 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,709 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,710 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,710 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,710 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,710 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,711 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,711 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,712 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,713 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,713 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,713 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,713 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,713 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,713 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,716 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,716 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,716 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,716 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,716 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,716 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,716 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,718 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,719 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,719 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,719 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,719 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,719 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,719 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,720 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,721 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,721 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,721 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,721 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,721 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,721 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,721 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,721 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,722 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,722 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,722 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,722 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,722 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,722 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,722 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,722 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,722 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,722 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,722 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,722 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,722 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,723 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,723 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,723 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,723 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,723 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,723 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,723 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,723 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,723 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,723 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,723 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,724 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,724 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,724 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,724 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,724 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,724 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,724 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,724 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,724 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,724 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,724 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,725 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,725 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,725 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,725 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,725 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,725 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,725 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,725 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,725 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,725 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,725 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,725 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,726 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,726 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,726 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,726 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,726 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,726 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,726 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,726 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,726 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,726 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,727 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,727 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,727 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,727 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,727 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,727 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,727 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,727 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,727 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,727 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,727 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,727 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,727 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,728 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,728 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,728 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,728 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,728 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,728 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,728 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,728 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,728 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,746 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: <exception str() failed>
+
+2025-10-23 03:06:18,746 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,746 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,746 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,746 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,746 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,747 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,748 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,748 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,748 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,748 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,748 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,748 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,748 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,749 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,749 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,749 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,749 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,749 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,750 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,750 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,750 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,750 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,750 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,750 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,750 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,750 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,750 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,750 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,750 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,751 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,751 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,751 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,751 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,751 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,751 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,751 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,751 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,752 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,752 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,752 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,752 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,752 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,752 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,752 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,752 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,753 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,753 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,753 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,753 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,753 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,753 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,753 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,753 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,754 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,754 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,754 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,754 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,754 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,754 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,754 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,755 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,755 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,755 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,755 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,755 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,755 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,755 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,755 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,755 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,755 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,771 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,772 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,772 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,772 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,772 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,772 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,772 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,772 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,772 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,772 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,774 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,774 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,774 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,774 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,775 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,775 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,775 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,775 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,775 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,775 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,775 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,776 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,776 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,776 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,776 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,777 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,777 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,777 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,777 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,777 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,777 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,777 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,777 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,777 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,777 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,777 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,778 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,778 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,778 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,778 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,778 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,778 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,778 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,778 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,778 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,779 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,779 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,779 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,779 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,779 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,779 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,779 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,779 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,779 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,779 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,780 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,780 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,780 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,780 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,780 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,780 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,780 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,780 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,780 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,780 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,780 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,780 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,780 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,781 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: astropy__astropy-7746: >>>>> Patch Apply Failed:
+patching file astropy/wcs/wcs.py
+patch: **** malformed patch at line 15: @@ -1303,6 +1309
+
+
+Check (logs/run_evaluation/improve_process_one/model-1/astropy__astropy-7746/run_instance.log) for more information.
+
+2025-10-23 03:06:18,781 - INFO - Attempting to stop container sweb.eval.astropy__astropy-7746.improve_process_one...
+2025-10-23 03:06:35,141 - INFO - Attempting to remove container sweb.eval.astropy__astropy-7746.improve_process_one...
+2025-10-23 03:06:35,405 - INFO - Container sweb.eval.astropy__astropy-7746.improve_process_one removed.
+2025-10-23 03:06:35,405 - INFO - Attempting to remove image swebench/sweb.eval.x86_64.astropy_1776_astropy-7746:latest...
+2025-10-23 03:06:36,240 - INFO - Image swebench/sweb.eval.x86_64.astropy_1776_astropy-7746:latest removed.

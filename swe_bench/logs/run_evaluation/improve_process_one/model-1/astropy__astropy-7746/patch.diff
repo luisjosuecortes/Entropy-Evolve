@@ -1,0 +1,23 @@
+```diff
+diff --git a/astropy/wcs/wcs.py b/astropy/wcs/wcs.py
+--- a/astropy/wcs/wcs.py
++++ b/astropy/wcs/wcs.py
+@@ -1290,6 +1290,12 @@
+         if len(axes) == 0:
+             return []
+ 
++        if all(len(a) == 0 for a in axes):
++            return [np.array([]) for _ in range(len(axes))]
++
+         if ra_dec_order and sky == 'input':
+             xy = self._denormalize_sky(xy)
+ 
+@@ -1303,6 +1309
+         output = func(xy, origin)
+ 
++        if len(output) == 0:
++            return [np.array([]) for _ in range(len(output))]
++
+         if ra_dec_order and sky == 'output':
+             output = self._normalize_sky(output)
+```

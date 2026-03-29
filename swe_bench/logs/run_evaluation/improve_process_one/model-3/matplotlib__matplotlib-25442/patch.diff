@@ -1,0 +1,14 @@
+```diff
+diff --git a/lib/matplotlib/offsetbox.py b/lib/matplotlib/offsetbox.py
+--- a/lib/matplotlib/offsetbox.py
++++ b/lib/matplotlib/offsetbox.py
+@@ -1514,7 +1514,7 @@ class OffsetImage(Artist):
+ 
+     @property
+     def canvas(self):
+-        return self.ref_artist.figure.canvas
++        return self.ref_artist.figure.canvas if self.ref_artist.figure else None
+ 
+     def set_data(self, data, *args, **kwargs):
+         self._data = data
+```

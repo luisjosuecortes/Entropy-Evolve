@@ -1,0 +1,16 @@
+```diff
+diff --git a/mpl_toolkits/axes_grid1/axes_grid.py b/mpl_toolkits/axes_grid1/axes_grid.py
+--- a/mpl_toolkits/axes_grid1/axes_grid.py
++++ b/mpl_toolkits/axes_grid1/axes_grid.py
+@@ -24,7 +24,7 @@
+ def _tick_only(ax, bottom_on=True, left_on=True):
+     """
+     This is a convenience function to set ticks on the given Axes only.
+-    If the axes is a subclass of Axes, it should have a `axis` attribute
++    If the axes is a subclass of Axes, it should have an `axis` callable.
+     """
+-    ax.axis["bottom"].toggle(ticklabels=bottom_on, label=bottom_on)
++    ax.axis("bottom").toggle(ticklabels=bottom_on, label=bottom_on)
+     ax.axis("left").toggle(ticklabels=left_on, label=left_on)
+ 
+```

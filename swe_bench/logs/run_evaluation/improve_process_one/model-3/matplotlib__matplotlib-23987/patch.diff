@@ -1,0 +1,23 @@
+```diff
+diff --git a/lib/matplotlib/figure.py b/lib/matplotlib/figure.py
+--- a/lib/matplotlib/figure.py
++++ b/lib/matplotlib/figure.py
+@@ -577,7 +577,7 @@ class Figure:
+         self._constrained_layout = False
+         self._constrained_layout_params = {}
+ 
+-    def set_constrained_layout(self, constrained=True):
++    def set_constrained_layout(self, constrained=None):
+         """
+         Set whether the figure should use constrained layout.
+ 
+@@ -585,7 +585,7 @@ class Figure:
+             constrained_layout (bool): If True, use constrained layout.
+         """
+         if constrained is None:
+-            constrained = True
++            constrained = False
+ 
+         if self._constrained_layout != constrained:
+             self._constrained_layout = constrained
+```

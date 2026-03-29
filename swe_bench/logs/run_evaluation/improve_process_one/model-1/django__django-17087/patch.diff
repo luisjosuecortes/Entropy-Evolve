@@ -1,0 +1,22 @@
+```diff
+diff --git a/appname/models.py b/appname/models.py
+--- a/appname/models.py
++++ b/appname/models.py
+@@ -5,7 +5,7 @@ class Profile(models.Model):
+ 		BASIC = ("BASIC", "Basic")
+ 		PROFESSIONAL = ("PROFESSIONAL", "Professional")
+ 
+-		@classmethod
++		@classmethod 
+ 		def default(cls) -> list[str]:
+ 			return [cls.BASIC]
+ 	capabilities = ArrayField(
+@@ -8,7 +8,7 @@ class Profile(models.Model):
+ 	capabilities = ArrayField(
+-		models.CharField(choices=Capability.choices, max_length=30, blank=True),
++		models.CharField(choices=Capability.choices, max_length=30, blank=True), 
+ 		null=True,
+-		default=Capability.default
++		default=Profile.Capability.default
+ 	)
+```

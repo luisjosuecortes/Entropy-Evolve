@@ -1,0 +1,2807 @@
+2025-10-23 02:59:14,095 - INFO - Creating container for django__django-15738...
+2025-10-23 02:59:18,040 - INFO - Container for django__django-15738 created: d5655fb87af709b3cd0366e27ae9c2ee6213183cef9a83e81d86de077b19deec
+2025-10-23 02:59:24,009 - INFO - Container for django__django-15738 started: d5655fb87af709b3cd0366e27ae9c2ee6213183cef9a83e81d86de077b19deec
+2025-10-23 02:59:24,009 - INFO - Intermediate patch for django__django-15738 written to logs/run_evaluation/improve_process_one/model-0/django__django-15738/patch.diff, now applying to container...
+2025-10-23 02:59:24,433 - INFO - Failed to apply patch to container: git apply --verbose
+2025-10-23 02:59:24,542 - INFO - Failed to apply patch to container: git apply --verbose --reject
+2025-10-23 02:59:24,802 - INFO - Failed to apply patch to container: patch --batch --fuzz=5 -p1 -i
+2025-10-23 02:59:24,802 - INFO - >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+2025-10-23 02:59:24,833 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: <exception str() failed>
+
+2025-10-23 02:59:24,833 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,833 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,833 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,833 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,833 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,833 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,833 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,837 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,838 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,838 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,838 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,838 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,838 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,838 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,838 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,838 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,838 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,838 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,838 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,838 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,838 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,838 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,839 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,839 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,839 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,839 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,839 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,839 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,839 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,840 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,840 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,840 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,840 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,840 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,840 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,840 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,840 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,840 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,840 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,841 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,841 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,841 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,841 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,841 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,841 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,841 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,841 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,841 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,841 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,841 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,841 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,841 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,842 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,842 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,842 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,842 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,842 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,842 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,842 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,842 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,843 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,843 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,843 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,843 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,843 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,843 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,843 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,843 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,843 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,843 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,844 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,844 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,844 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,844 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,844 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,844 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,844 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,844 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,844 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,844 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,844 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,844 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,844 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,845 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,845 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,845 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,845 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,845 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,845 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,845 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,846 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,846 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,846 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,846 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,846 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,846 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,846 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,846 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,846 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,846 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,846 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,846 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,847 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,847 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,847 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,847 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,847 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,847 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,847 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,847 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,847 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,847 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,847 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,848 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,848 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,848 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,848 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,848 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,848 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,848 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,848 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,849 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,849 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,849 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,849 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,849 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,849 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,849 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,849 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,849 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,849 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,849 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,849 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,849 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,850 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,850 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,850 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,850 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,850 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,868 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: <exception str() failed>
+
+2025-10-23 02:59:24,868 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,868 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,868 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,868 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,868 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,869 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,869 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,869 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,869 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,869 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,869 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,869 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,869 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,869 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,869 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,869 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,869 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,879 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,886 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,887 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,887 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,887 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,887 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,887 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,887 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,887 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,887 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,887 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,887 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,887 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,887 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,887 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,887 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,888 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,888 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,888 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,888 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,888 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,888 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,888 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,888 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,888 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,888 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,889 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,889 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,889 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,889 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,889 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,889 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,889 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,889 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,889 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,889 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,889 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,889 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,889 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,889 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,890 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,890 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,890 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,890 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,890 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,890 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,890 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,890 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,890 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,890 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,890 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,890 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,890 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,890 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,891 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,891 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,891 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,891 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,891 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,891 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,891 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,891 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,891 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,892 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,892 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,892 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,892 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,892 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,892 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,892 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,892 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,893 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,893 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,893 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,893 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,893 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,893 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,893 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,893 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,893 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,893 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,893 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,893 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,894 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,894 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,894 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,894 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,894 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,894 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,894 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,894 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,894 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,894 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,895 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,895 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,895 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,895 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,895 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,895 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,895 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,895 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,895 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,895 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,895 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,895 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,895 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,896 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,896 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,896 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,896 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,896 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,896 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,896 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,896 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,896 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,896 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,897 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,897 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,897 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,897 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,897 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,897 - INFO - Traceback (most recent call last):
+  File "/home/ulises/test_swe_bench/.env/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: django__django-15738: >>>>> Patch Apply Failed:
+patching file tests/migrations/test_autodetector.py
+patch: **** malformed patch at line 45:          """
+
+
+Check (logs/run_evaluation/improve_process_one/model-0/django__django-15738/run_instance.log) for more information.
+
+2025-10-23 02:59:24,897 - INFO - Attempting to stop container sweb.eval.django__django-15738.improve_process_one...
+2025-10-23 02:59:41,716 - INFO - Attempting to remove container sweb.eval.django__django-15738.improve_process_one...
+2025-10-23 02:59:42,069 - INFO - Container sweb.eval.django__django-15738.improve_process_one removed.
+2025-10-23 02:59:42,069 - INFO - Attempting to remove image swebench/sweb.eval.x86_64.django_1776_django-15738:latest...
+2025-10-23 02:59:42,795 - INFO - Image swebench/sweb.eval.x86_64.django_1776_django-15738:latest removed.

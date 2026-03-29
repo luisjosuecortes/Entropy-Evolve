@@ -1,0 +1,18 @@
+```diff
+diff --git a/sphinx/ext/autodoc.py b/sphinx/ext/autodoc.py
+--- a/sphinx/ext/autodoc.py
++++ b/sphinx/ext/autodoc.py
+@@ -1740,6 +1740,11 @@
+                 name = name.strip()
+                 # add special handling for forward references
+                 if name.startswith('~'):
+                     name = name[1:]
++                # handle struct.Struct type annotations
++                if name == 'Struct':
++                    name = 'struct.Struct'
++                elif name == 'struct':
++                    continue
+                 obj = self.resolve_obj(name)  # type: ignore
+                 if obj is None:
+                     warnings.warn('class reference target not found: %s' % name)
+```

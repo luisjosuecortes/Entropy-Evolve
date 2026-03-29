@@ -1,0 +1,92 @@
+2025-10-23 03:05:42,320 - INFO - Creating container for sympy__sympy-23191...
+2025-10-23 03:06:16,450 - INFO - Container for sympy__sympy-23191 created: b9f5b20e8555a978cfac222ce4609ba8250581a18a5c37666d7f8bc7445532f2
+2025-10-23 03:06:18,005 - INFO - Container for sympy__sympy-23191 started: b9f5b20e8555a978cfac222ce4609ba8250581a18a5c37666d7f8bc7445532f2
+2025-10-23 03:06:18,005 - INFO - Intermediate patch for sympy__sympy-23191 written to logs/run_evaluation/improve_process_one/model-1/sympy__sympy-23191/patch.diff, now applying to container...
+2025-10-23 03:06:18,249 - INFO - >>>>> Applied Patch:
+Checking patch sympy/vector/tests/test_printing.py...
+Applied patch sympy/vector/tests/test_printing.py cleanly.
+
+2025-10-23 03:06:18,749 - INFO - Git diff before:
+diff --git a/sympy/vector/tests/test_printing.py b/sympy/vector/tests/test_printing.py
+index b4a786d7a6..3e80299477 100644
+--- a/sympy/vector/tests/test_printing.py
++++ b/sympy/vector/tests/test_printing.py
+@@ -3,7 +3,7 @@
+ from sympy.integrals.integrals import Integral
+ from sympy.printing.latex import latex
+ from sympy.printing.pretty import pretty as xpretty
+-from sympy.vector import CoordSys3D, Vector, express
++from sympy.vector import CoordSys3D, Del, Vector, express
+ from sympy.abc import a, b, c
+ from sympy.testing.pytest import XFAIL
+ 
+@@ -160,6 +160,55 @@ def test_latex_printing():
+                             '\\mathbf{\\hat{k}_{N}}{\\middle|}\\mathbf{' +
+                             '\\hat{k}_{N}}\\right)')
+ 
++def test_issue_23058():
++    from sympy import symbols, sin, cos, pi, UnevaluatedExpr
++
++    delop = Del()
++    CC_   = CoordSys3D("C")
++    y     = CC_.y
++    xhat  = CC_.i
++
++    t = symbols("t")
++    ten = symbols("10", positive=True)
++    eps, mu = 4*pi*ten**(-11), ten**(-5)
++
++    Bx = 2 * ten**(-4) * cos(ten**5 * t) * sin(ten**(-3) * y)
++    vecB = Bx * xhat
++    vecE = (1/eps) * Integral(delop.cross(vecB/mu).doit(), t)
++    vecE = vecE.doit()
++
++    vecB_str = """\
++⎛     ⎛y_C⎞    ⎛  5  ⎞⎞    \n\
++⎜2⋅sin⎜───⎟⋅cos⎝10 ⋅t⎠⎟ i_C\n\
++⎜     ⎜  3⎟           ⎟    \n\
++⎜     ⎝10 ⎠           ⎟    \n\
++⎜─────────────────────⎟    \n\
++⎜           4         ⎟    \n\
++⎝         10          ⎠    \
++"""
++    vecE_str = """\
++⎛   4    ⎛  5  ⎞    ⎛y_C⎞ ⎞    \n\
++⎜-10 ⋅sin⎝10 ⋅t⎠⋅cos⎜───⎟ ⎟ k_C\n\
++⎜                   ⎜  3⎟ ⎟    \n\
++⎜                   ⎝10 ⎠ ⎟    \n\
++⎜─────────────────────────⎟    \n\
++⎝           2⋅π           ⎠    \
++"""
++
++    assert upretty(vecB) == vecB_str
++    assert upretty(vecE) == vecE_str
++
++    ten = UnevaluatedExpr(10)
++    eps, mu = 4*pi*ten**(-11), ten**(-5)
++
++    Bx = 2 * ten**(-4) * cos(ten**5 * t) * sin(ten**(-3) * y)
++    vecB = Bx * xhat
++
++    vecB_str = """\
++⎛    -4    ⎛    5⎞    ⎛      -3⎞⎞     \n\
++⎝2⋅10  ⋅cos⎝t⋅10 ⎠⋅sin⎝y_C⋅10  ⎠⎠ i_C \
++"""
++    assert upretty(vecB) == vecB_str
+ 
+ def test_custom_names():
+     A = CoordSys3D('A', vector_names=['x', 'y', 'z'],
+2025-10-23 03:06:18,751 - INFO - Eval script for sympy__sympy-23191 written to logs/run_evaluation/improve_process_one/model-1/sympy__sympy-23191/eval.sh; copying to container...
+2025-10-23 03:06:25,223 - INFO - Test runtime: 6.37 seconds
+2025-10-23 03:06:25,223 - INFO - Test output for sympy__sympy-23191 written to logs/run_evaluation/improve_process_one/model-1/sympy__sympy-23191/test_output.txt
+2025-10-23 03:06:25,289 - INFO - Git diff after:
+
+2025-10-23 03:06:25,289 - INFO - Git diff changed after running eval script
+2025-10-23 03:06:25,289 - INFO - Grading answer for sympy__sympy-23191...
+2025-10-23 03:06:25,290 - INFO - report: {'sympy__sympy-23191': {'patch_is_None': False, 'patch_exists': True, 'patch_successfully_applied': True, 'resolved': False, 'tests_status': {'FAIL_TO_PASS': {'success': [], 'failure': ['test_issue_23058']}, 'PASS_TO_PASS': {'success': ['test_str_printing', 'test_pretty_print_unicode_v', 'test_latex_printing'], 'failure': []}, 'FAIL_TO_FAIL': {'success': [], 'failure': []}, 'PASS_TO_FAIL': {'success': [], 'failure': []}}}}
+Result for sympy__sympy-23191: resolved: False
+2025-10-23 03:06:25,290 - INFO - Attempting to stop container sweb.eval.sympy__sympy-23191.improve_process_one...
+2025-10-23 03:06:41,741 - INFO - Attempting to remove container sweb.eval.sympy__sympy-23191.improve_process_one...
+2025-10-23 03:06:42,085 - INFO - Container sweb.eval.sympy__sympy-23191.improve_process_one removed.
+2025-10-23 03:06:42,085 - INFO - Attempting to remove image swebench/sweb.eval.x86_64.sympy_1776_sympy-23191:latest...
+2025-10-23 03:06:43,155 - INFO - Image swebench/sweb.eval.x86_64.sympy_1776_sympy-23191:latest removed.

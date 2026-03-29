@@ -1,0 +1,17 @@
+```diff
+diff --git a/pylint/checkers/imports.py b/pylint/checkers/imports.py
+--- a/pylint/checkers/imports.py
++++ b/pylint/checkers/imports.py
+@@ -200,7 +200,11 @@
+         # Filter to avoid absolute paths and module conflicts
+         for path in self._paths:
+             modname = self._get_module_name(path)
+-            if os.path.exists(os.path.join(path, '__init__.py')) or modname != module:
++            if modname == module:
++                # If the module name matches the package, continue to next path
++                continue
++            if os.path.exists(os.path.join(path, '__init__.py')):
+                 paths.append(path)
+ 
+         return paths
+```

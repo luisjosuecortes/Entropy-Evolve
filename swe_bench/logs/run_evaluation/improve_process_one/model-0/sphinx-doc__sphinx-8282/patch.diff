@@ -1,0 +1,17 @@
+```diff
+diff --git a/sphinx/ext/autodoc/importer.py b/sphinx/ext/autodoc/importer.py
+--- a/sphinx/ext/autodoc/importer.py
++++ b/sphinx/ext/autodoc/importer.py
+@@ -330,6 +330,11 @@
+                     obj, member, options)
+         elif isinstance(obj, CallableType) and not obj.is_overloaded:
+             # Handle normal callable types
++            if options.get('typehints') == 'none':
++                # If typehints are set to none, don't show the hints for overloads
++                if isinstance(obj, Overloaded):
++                    return None
++
+             type_hints = self.get_type_hints(obj)
+             if type_hints:
+                 for param, param_type in type_hints.items():
+```

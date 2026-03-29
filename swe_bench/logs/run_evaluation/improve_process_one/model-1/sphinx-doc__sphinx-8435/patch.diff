@@ -1,0 +1,21 @@
+```diff
+diff --git a/sphinx/ext/autodoc/__init__.py b/sphinx/ext/autodoc/__init__.py
+--- a/sphinx/ext/autodoc/__init__.py
++++ b/sphinx/ext/autodoc/__init__.py
+@@ -293,6 +293,8 @@ class AttributeDocumenter(ObjectDocumenter):
+         # Retrieve the original type if it exists
+         if self.object and hasattr(self.object, '__annotations__'):
+             type_hint = self.object.__annotations__.get(self.name)
++            if type_hint in self.env.app.config.autodoc_type_aliases:
++                type_hint = self.env.app.config.autodoc_type_aliases[type_hint]
+             if type_hint is not None:
+                 self._type = type_hint
+ 
+@@ -407,6 +409,8 @@ class VariableDocumenter(ObjectDocumenter):
+         if self.object and hasattr(self.object, '__annotations__'):
+             type_hint = self.object.__annotations__.get(self.name)
++            if type_hint in self.env.app.config.autodoc_type_aliases:
++                type_hint = self.env.app.config.autodoc_type_aliases[type_hint]
+             if type_hint is not None:
+                 self._type = type_hint
+```

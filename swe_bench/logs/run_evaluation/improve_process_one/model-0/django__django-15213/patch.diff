@@ -1,0 +1,22 @@
+```diff
+diff --git a/django/db/models/expressions.py b/django/db/models/expressions.py
+--- a/django/db/models/expressions.py
++++ b/django/db/models/expressions.py
+@@ -1337,10 +1337,15 @@ class ExpressionWrapper(CombinedExpression):
+             raise ValueError("Invalid type for expression.")
+ 
+     def as_sql(self, compiler, connection):
+-        # Raw SQL for field definition, not part of query itself
+-        sql, params = super().as_sql(compiler, connection)
+-        if not sql:
+-            return 'SELECT NULL', params
++        sql, params = super().as_sql(compiler, connection)
++        # Handle cases for boolean annotations
++        if not sql and isinstance(self.expression, Q):
++            if hasattr(self.expression, 'negated') and self.expression.negated:
++                return 'SELECT 1', params  # Assuming True when negated
++            return 'SELECT 0', params  # Default for non-negated
++        return sql, params
+ 
+         return sql, params
+```

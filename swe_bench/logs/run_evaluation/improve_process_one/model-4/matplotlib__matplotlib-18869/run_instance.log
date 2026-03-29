@@ -1,0 +1,46 @@
+2025-10-23 03:29:41,079 - INFO - Creating container for matplotlib__matplotlib-18869...
+2025-10-23 03:30:25,845 - INFO - Container for matplotlib__matplotlib-18869 created: be7ff17146d3d91bb18e03a6d40ed4ca7f5b9434cb46db479f5b20ff85735af1
+2025-10-23 03:30:26,864 - INFO - Container for matplotlib__matplotlib-18869 started: be7ff17146d3d91bb18e03a6d40ed4ca7f5b9434cb46db479f5b20ff85735af1
+2025-10-23 03:30:26,864 - INFO - Intermediate patch for matplotlib__matplotlib-18869 written to logs/run_evaluation/improve_process_one/model-4/matplotlib__matplotlib-18869/patch.diff, now applying to container...
+2025-10-23 03:30:27,027 - INFO - Failed to apply patch to container: git apply --verbose
+2025-10-23 03:30:27,126 - INFO - Failed to apply patch to container: git apply --verbose --reject
+2025-10-23 03:30:27,233 - INFO - >>>>> Applied Patch:
+patching file lib/matplotlib/__init__.py
+patch unexpectedly ends in middle of line
+Hunk #1 succeeded at 1 with fuzz 3.
+
+2025-10-23 03:30:28,396 - INFO - Git diff before:
+diff --git a/lib/matplotlib/__init__.py b/lib/matplotlib/__init__.py
+index b657a35cf7..6eea8d5aeb 100644
+--- a/lib/matplotlib/__init__.py
++++ b/lib/matplotlib/__init__.py
+@@ -1,5 +1,6 @@
+ """
+ An object-oriented plotting library.
++version_info = (3, 5, 0, 'final', 0)
+ 
+ A procedural interface is provided by the companion pyplot module,
+ which may be imported directly, e.g.::
+2025-10-23 03:30:28,397 - INFO - Eval script for matplotlib__matplotlib-18869 written to logs/run_evaluation/improve_process_one/model-4/matplotlib__matplotlib-18869/eval.sh; copying to container...
+2025-10-23 03:30:44,214 - INFO - Test runtime: 15.74 seconds
+2025-10-23 03:30:44,215 - INFO - Test output for matplotlib__matplotlib-18869 written to logs/run_evaluation/improve_process_one/model-4/matplotlib__matplotlib-18869/test_output.txt
+2025-10-23 03:30:44,297 - INFO - Git diff after:
+diff --git a/lib/matplotlib/__init__.py b/lib/matplotlib/__init__.py
+index b657a35cf7..6eea8d5aeb 100644
+--- a/lib/matplotlib/__init__.py
++++ b/lib/matplotlib/__init__.py
+@@ -1,5 +1,6 @@
+ """
+ An object-oriented plotting library.
++version_info = (3, 5, 0, 'final', 0)
+ 
+ A procedural interface is provided by the companion pyplot module,
+ which may be imported directly, e.g.::
+2025-10-23 03:30:44,297 - INFO - Grading answer for matplotlib__matplotlib-18869...
+2025-10-23 03:30:44,298 - INFO - report: {'matplotlib__matplotlib-18869': {'patch_is_None': False, 'patch_exists': True, 'patch_successfully_applied': True, 'resolved': False, 'tests_status': {'FAIL_TO_PASS': {'success': [], 'failure': ['lib/matplotlib/tests/test_matplotlib.py::test_parse_to_version_info[3.5.0-version_tuple0]', 'lib/matplotlib/tests/test_matplotlib.py::test_parse_to_version_info[3.5.0rc2-version_tuple1]', 'lib/matplotlib/tests/test_matplotlib.py::test_parse_to_version_info[3.5.0.dev820+g6768ef8c4c-version_tuple2]', 'lib/matplotlib/tests/test_matplotlib.py::test_parse_to_version_info[3.5.0.post820+g6768ef8c4c-version_tuple3]']}, 'PASS_TO_PASS': {'success': ['lib/matplotlib/tests/test_matplotlib.py::test_importable_with_no_home', 'lib/matplotlib/tests/test_matplotlib.py::test_use_doc_standard_backends', 'lib/matplotlib/tests/test_matplotlib.py::test_importable_with__OO'], 'failure': []}, 'FAIL_TO_FAIL': {'success': [], 'failure': []}, 'PASS_TO_FAIL': {'success': [], 'failure': []}}}}
+Result for matplotlib__matplotlib-18869: resolved: False
+2025-10-23 03:30:44,298 - INFO - Attempting to stop container sweb.eval.matplotlib__matplotlib-18869.improve_process_one...
+2025-10-23 03:31:02,173 - INFO - Attempting to remove container sweb.eval.matplotlib__matplotlib-18869.improve_process_one...
+2025-10-23 03:31:06,069 - INFO - Container sweb.eval.matplotlib__matplotlib-18869.improve_process_one removed.
+2025-10-23 03:31:06,070 - INFO - Attempting to remove image swebench/sweb.eval.x86_64.matplotlib_1776_matplotlib-18869:latest...
+2025-10-23 03:31:07,897 - INFO - Image swebench/sweb.eval.x86_64.matplotlib_1776_matplotlib-18869:latest removed.
